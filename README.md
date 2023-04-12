@@ -1,2 +1,2 @@
 # resume-website
-Link - https://aayushxrj.github.io/resume-website/
+Link - https://aayushxrj.github.io/Resume-website/
